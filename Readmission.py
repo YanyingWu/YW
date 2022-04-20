@@ -1,5 +1,6 @@
 # Code framework courtesy of Jason Brownlee
 # https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
+# Team: Yanying Wu, Robin Attey, Christopher Tannock
 
 import csv
 import random
