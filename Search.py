@@ -1,3 +1,6 @@
+# Team: Yanying Wu, Robin Attey, Christopher Tannock
+
+
 import os
 import urllib.request
 import tarfile
